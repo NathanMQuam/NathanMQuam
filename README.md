@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NathanMQuam/NathanMQuam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+	<h3>Currently a student at Boise CodeWorks!</h3>
+	<a href="https://boisecodeworks.com/">
+		<img src="https://bcw.blob.core.windows.net/public/img/www/assets/img/logos/cw-logo-square.png" height="100px" />
+	</a>
+</div>
+
+<div>
+	<div>Email: Nathan.M.Quam@gmail.com</div>
+</div> <br />
 
 <div>
   <a href="https://github.com/jakeoverall/jakeoverall" align="left">
