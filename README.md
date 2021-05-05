@@ -13,18 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-	<h3>Currently a student at Boise CodeWorks!</h3>
+	<h1> Nathan Quam </h1>
+</div>
+
+
+
+<div>
+	<h3>Recently graduated from Boise CodeWorks!</h3>
+	<h4><a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">#OpenToWork</a></h4>
 	<a href="https://boisecodeworks.com/">
 		<img src="https://bcw.blob.core.windows.net/public/img/www/assets/img/logos/cw-logo-square.png" height="100px" />
 	</a>
 </div>
 
-<div>
-	<div>Email: Nathan.M.Quam@gmail.com</div>
-</div> <br />
+
 
 <div>
-  <a href="https://github.com/jakeoverall/jakeoverall" align="left">
+	<div>My Website: <a href="https://github.com/NathanMQuam">Currently under construction</a></div>
+	<div>LinkedIn: <a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">Nathan Quam</a></div>
+	<div>Email: Nathan.M.Quam@gmail.com</div>
+</div>
+
+
+
+<div>
+  <a href="https://github.com/NathanMQuam/NathanMQuam" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMQuam&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
 
