@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <div>
-	<div>My Website: <a href="https://github.com/NathanMQuam">Currently under construction</a></div>
+	<div>My Website: <a href="https://nathanmquam.github.io/Landing-Page/#/">Currently under construction</a></div>
 	<div>LinkedIn: <a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">Nathan Quam</a></div>
 	<div>Email: Nathan.M.Quam@gmail.com</div>
 </div>
