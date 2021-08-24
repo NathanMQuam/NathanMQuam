@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 	<a href="https://boisecodeworks.com/">
 		<img src="https://bcw.blob.core.windows.net/public/img/www/assets/img/logos/cw-logo-square.png" height="100px" />
 	</a>
-	<a href="https://www.linkedin.com/in/nathan-q-9baaa3132/"><h4>#OpenToWork</h4></a>
+	<h4><a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">#OpenToWork</a></h4>
 </div>
 
 
