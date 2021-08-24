@@ -20,18 +20,19 @@ Here are some ideas to get you started:
 
 <div>
 	<h3>Recently graduated from Boise CodeWorks!</h3>
-	<h4><a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">#OpenToWork</a></h4>
 	<a href="https://boisecodeworks.com/">
 		<img src="https://bcw.blob.core.windows.net/public/img/www/assets/img/logos/cw-logo-square.png" height="100px" />
 	</a>
+	<a href="https://www.linkedin.com/in/nathan-q-9baaa3132/"><h4>#OpenToWork</h4></a>
 </div>
 
 
 
 <div>
-	<div>My Website: <a href="https://nathanmquam.github.io/Landing-Page/#/">Currently under construction</a></div>
-	<div>LinkedIn: <a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">Nathan Quam</a></div>
-	<div>Email: Nathan.M.Quam@gmail.com</div>
+	<div><a href="https://nathanmquam.github.io/Landing-Page/#/">My Website: Currently under construction</a></div>
+	<div><a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">My LinkedIn Profile</a></div>
+	<div><a href="https://github.com/NathanMQuam/nathan-quam-career/blob/main/Nathan%20M%20Quam%20-%20Resume.pdf">My Résumé</a></div>
+	<div>My Email: Nathan.M.Quam@gmail.com</div>
 </div>
 
 
