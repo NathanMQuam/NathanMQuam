@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div>
 	<div><a href="https://nathanmquam.github.io/Landing-Page/#/">My Website</a></div>
-	<div><a href="https://www.linkedin.com/in/nathan-q-9baaa3132/">My LinkedIn Profile</a></div>
+	<div><a href="https://www.linkedin.com/in/nathan-quam/">My LinkedIn Profile</a></div>
 	<div><a href="https://github.com/NathanMQuam/nathan-quam-career/blob/main/Nathan%20M%20Quam%20-%20Resume.pdf">My Résumé</a></div>
 	<div>My Email: Nathan.M.Quam@gmail.com</div>
 </div>
